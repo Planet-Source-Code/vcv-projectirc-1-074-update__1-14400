@@ -1,0 +1,6 @@
+Attribute VB_Name = "ToDo"
+'* This is simple a to-do list
+'*  1. Add option to have friend tracker NOT load on start-up
+'*  2. logging
+'*  3. remote script
+
